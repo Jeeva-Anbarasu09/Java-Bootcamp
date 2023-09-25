@@ -4,6 +4,8 @@ import java.util.Scanner;
 
 public class StringExmple {
 
+    //return method here is used  as String
+    //If it is static you don't jave to create an object for the class
     public static String greet()
     {
         String greeting = "How are you ?" ;

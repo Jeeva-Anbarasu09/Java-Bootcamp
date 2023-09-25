@@ -6,8 +6,8 @@ public class Greeting {
     {
         System.out.println("Hello World");
     }
+    //static void will be explained later
     public static void main(String[] args) {
-
         greeting();
     }
 }
