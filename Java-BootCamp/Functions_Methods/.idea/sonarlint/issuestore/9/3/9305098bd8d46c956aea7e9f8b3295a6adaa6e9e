@@ -1,0 +1,9 @@
+
+v
+java:S1488	"`Immediately return this expression instead of assigning it to the temporary variable "greeting".(£ö©ó
+z
+java:S1488"_Immediately return this expression instead of assigning it to the temporary variable "message".(Ùù‰òùÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ƒÀ¿á
+Q	java:S125"<This block of commented-out lines of code should be removed.(ê’ûË
+@	java:S106"+Replace this use of System.out by a logger.(ÑÃ²·
+@	java:S106"+Replace this use of System.out by a logger.(ÅÖÙ
