@@ -18,6 +18,7 @@ public class ChangeValue {
     //objects and related stuffs.
     //In primitives value is passed
     //In non primitives is  passed by the copy of  the value  of the reference
+    //the reference is  passed by  call by value
     static  void change(int[] num){
         num[0] = 100;
         num[5]= 101;
